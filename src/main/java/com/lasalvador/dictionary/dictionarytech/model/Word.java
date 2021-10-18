@@ -2,7 +2,6 @@ package com.lasalvador.dictionary.dictionarytech.model;
 
 import com.fasterxml.jackson.databind.annotation.JsonSerialize;
 import com.fasterxml.jackson.databind.ser.std.ToStringSerializer;
-import com.sun.istack.internal.NotNull;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.Setter;
